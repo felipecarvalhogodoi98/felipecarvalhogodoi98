@@ -1,8 +1,8 @@
 <b style="text-align:right"> PT | <a href="https://github.com/felipecarvalhogodoi98/felipecarvalhogodoi98/blob/main/README_en-us.md">EN</a> </b>
 
-# Hi, I'm Felipe!
+# Oi, eu sou o Felipe!
 
-### About me
+### Sobre mim
 - Estudante de Ciencia da Computação na Universidade Federal de Lavras - UFLA, Minas Gerais - Brasil.
 
 <br>
