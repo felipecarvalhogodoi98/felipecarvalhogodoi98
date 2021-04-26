@@ -1,3 +1,5 @@
+<b style="text-align:right"> PT | <a href="">EN</a> </b>
+
 # Hi, I'm Felipe!
 
 ### About me
