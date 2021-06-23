@@ -4,6 +4,7 @@
 
 ### About me
 - Computer Science student at the Federal University of Lavras - UFLA, Minas Gerais - Brazil.
+- Personal Portifolio <a href="https://felipecarvalhogodoi98.github.io/portifolio/">Felipe Godoi</a>
 
 <br>
 
