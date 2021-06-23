@@ -4,7 +4,7 @@
 
 ### Sobre mim
 - Estudante de Ciencia da Computação na Universidade Federal de Lavras - UFLA, Minas Gerais - Brasil.
-- Site pessoal <a href="https://felipecarvalhogodoi98.github.io/portifolio/">Felipe Godoi</a>
+- Portifolio Pessoal <a href="https://felipecarvalhogodoi98.github.io/portifolio/">Felipe Godoi</a>
 
 <br>
 
