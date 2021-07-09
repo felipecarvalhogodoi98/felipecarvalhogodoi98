@@ -4,6 +4,7 @@
 
 ### About me
 - Computer Science student at the Federal University of Lavras - UFLA, Minas Gerais - Brazil.
+- I aim to become a backend developer.
 - Personal Portifolio <a href="https://felipecarvalhogodoi98.github.io/portifolio/">Felipe Godoi</a>
 
 ---
