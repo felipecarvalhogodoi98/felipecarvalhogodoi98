@@ -15,8 +15,9 @@
 
 ![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B)
 
-![JavaScript](https://img.shields.io/badge/-Javascript-333?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
+![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=express)
+
 ![Yarn](https://img.shields.io/badge/-Yarn-333?style=for-the-badge&logo=yarn)
 ![React JS](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 
