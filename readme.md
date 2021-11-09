@@ -37,9 +37,9 @@
 
 ---
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=felipecarvalhogodoi98&show_icons=true&theme=dracula) -->
+![](https://github-readme-stats.vercel.app/api?username=felipecarvalhogodoi98&show_icons=true&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarvalhogodoi98&layout=compact&theme=dracula)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarvalhogodoi98&layout=compact&theme=dracula) -->
 
 ---
 
