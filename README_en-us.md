@@ -13,24 +13,21 @@
 
 * #### Studying
 
-![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B)
-
-![JavaScript](https://img.shields.io/badge/-Javascript-333?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
-![Yarn](https://img.shields.io/badge/-Yarn-333?style=for-the-badge&logo=yarn)
-![React JS](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 
-![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php)
-![Lumen](https://img.shields.io/badge/-Lumen-333?style=for-the-badge&logo=lumen)
+![Node.JS](https://img.shields.io/badge/-Node-333?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=express)
+![Yarn](https://img.shields.io/badge/-Yarn-333?style=for-the-badge&logo=yarn)
+![React.JS](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 
 ![GIT](https://img.shields.io/badge/-GIT-333?style=for-the-badge&logo=git)
 
 * #### I want to dominate 
 
-![Laravel](https://img.shields.io/badge/-Laravel-333?style=for-the-badge&logo=laravel)
+![Next.JS](https://img.shields.io/badge/-Next.js-333?style=for-the-badge&logo=next.js)
 
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
+![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=sql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-333?style=for-the-badge&logo=nosql)
 
 ---
 
