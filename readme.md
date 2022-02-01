@@ -13,27 +13,23 @@
 
 * #### Estudando
 
-![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B)
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
+
+![Node.JS](https://img.shields.io/badge/-Node-333?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=express)
-
 ![Yarn](https://img.shields.io/badge/-Yarn-333?style=for-the-badge&logo=yarn)
-![React JS](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
-
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![React.JS](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 
 ![GIT](https://img.shields.io/badge/-GIT-333?style=for-the-badge&logo=git)
 
 * #### Quero dominar
 
-![Vue.JS](https://img.shields.io/badge/-Vue.js-333?style=for-the-badge&logo=vue.js)
+![Next.JS](https://img.shields.io/badge/-Next.js-333?style=for-the-badge&logo=next.js)
 
-![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php)
-![Lumen](https://img.shields.io/badge/-Lumen-333?style=for-the-badge&logo=lumen)
-![Laravel](https://img.shields.io/badge/-Laravel-333?style=for-the-badge&logo=laravel)
+![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=sql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-333?style=for-the-badge&logo=nosql)
 
-![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
+
 
 ---
 
