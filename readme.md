@@ -3,22 +3,24 @@
 # Oi, eu sou o Felipe!
 
 ### Sobre mim
-- Estudante de Ciencia da Computação na Universidade Federal de Lavras - UFLA, Minas Gerais - Brasil.
-- Tenho como objetivo me tornar um desenvolvedor WEB.
-- Portifolio Pessoal <a href="https://felipecarvalhogodoi98.github.io/portifolio/">Felipe Godoi</a>
+- Ciencia da Computação na Universidade Federal de Lavras - UFLA, Minas Gerais - Brasil.
+- Desenvolvedor WEB.
+- Portifolio Pessoal <a href="https://felipecarvalhogodoi98.github.io/portifolio/">Felipe Godoi</a> (em desenvolvimento)
 
 ---
 
 ### Tecnologias e Linguagens
 
-* #### Estudando
+* #### Tecnologias
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
-
 ![Node.JS](https://img.shields.io/badge/-Node-333?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=express)
 ![Yarn](https://img.shields.io/badge/-Yarn-333?style=for-the-badge&logo=yarn)
 ![React.JS](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
+
+![Drupal](https://img.shields.io/badge/-Drupal-333?style=for-the-badge&logo=drupal)
+![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php)
+
 
 ![GIT](https://img.shields.io/badge/-GIT-333?style=for-the-badge&logo=git)
 
