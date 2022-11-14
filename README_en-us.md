@@ -3,9 +3,9 @@
 # Hi, I'm Felipe!
 
 ### About me
-- Computer Science student at the Federal University of Lavras - UFLA, Minas Gerais - Brazil.
-- I aim to become a WEB developer.
-- Personal Portifolio <a href="https://felipecarvalhogodoi98.github.io/portifolio/">Felipe Godoi</a>
+- Computer Science at the Federal University of Lavras - UFLA, Minas Gerais - Brazil.
+- WEB developer.
+- Personal Portifolio <a href="https://felipecarvalhogodoi98.github.io/portifolio/">Felipe Godoi</a> (in development)
 
 ---
 
@@ -14,11 +14,13 @@
 * #### Studying
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
-
 ![Node.JS](https://img.shields.io/badge/-Node-333?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=express)
 ![Yarn](https://img.shields.io/badge/-Yarn-333?style=for-the-badge&logo=yarn)
 ![React.JS](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
+
+![Drupal](https://img.shields.io/badge/-Drupal-333?style=for-the-badge&logo=drupal)
+![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php)
+
 
 ![GIT](https://img.shields.io/badge/-GIT-333?style=for-the-badge&logo=git)
 
