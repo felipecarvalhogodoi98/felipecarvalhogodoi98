@@ -24,8 +24,6 @@
 
 ![GIT](https://img.shields.io/badge/-GIT-333?style=for-the-badge&logo=git)
 
-* #### Quero dominar
-
 ![Next.JS](https://img.shields.io/badge/-Next.js-333?style=for-the-badge&logo=next.js)
 
 ![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=sql)
@@ -35,7 +33,7 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=felipecarvalhogodoi98&show_icons=true&theme=dracula)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felipecarvalhogodoi98&show_icons=true&theme=dracula)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarvalhogodoi98&layout=compact&theme=dracula) -->
 
