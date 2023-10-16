@@ -33,7 +33,7 @@
 
 ---
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felipecarvalhogodoi98&show_icons=true&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarvalhogodoi98&layout=compact&theme=dracula) -->
 
