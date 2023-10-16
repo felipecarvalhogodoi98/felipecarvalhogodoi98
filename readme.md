@@ -33,7 +33,10 @@
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipecarvalhogodoi98&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipecarvalhogodoi98&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipecarvalhogodoi98&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipecarvalhogodoi98&theme=dark&utcOffset=0)
+
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarvalhogodoi98&layout=compact&theme=dracula) -->
 
