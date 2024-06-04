@@ -1,5 +1,3 @@
-<b style="text-align:right"> PT | <a href="https://github.com/felipecarvalhogodoi98/felipecarvalhogodoi98/blob/main/README_en-us.md">EN</a> </b>
-
 # I am Felipe!
 
 ### About me
